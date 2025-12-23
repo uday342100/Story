@@ -1,1 +1,4 @@
 It was the age of wisdom and this is the random text of chapter 2
+
+ changes made for branching and merging lesson in chp2
+ 
